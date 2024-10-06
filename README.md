@@ -10,3 +10,4 @@ Built with Python that conects to Binance WebSocket API to stream live real-time
 Use Ctrl + C in terminal to end tracker
 
 
+# binance-tracker
